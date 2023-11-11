@@ -1,4 +1,4 @@
-name: Coverage Check and Publish
+name: Publish to NPM
 
 on:
   push:
